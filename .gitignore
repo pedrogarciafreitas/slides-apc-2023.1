@@ -1,4 +1,7 @@
 *.odp
+*.doc
+*.docx
+
 
 ### LibreOffice ###
 # LibreOffice locks
